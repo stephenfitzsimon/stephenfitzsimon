@@ -1,7 +1,7 @@
-#Intro
+# Intro
 I am a student at CodeUp learning Data Science.  Looking forward to working on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  Also interested in puzzles and computer science
 
-##Languages I'm learning
+## Languages I'm learning
 - Python
 - Java
 - SQL
