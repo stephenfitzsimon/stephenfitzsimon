@@ -1,19 +1,24 @@
-# Intro
-I am a student at CodeUp learning Data Science.  Looking forward to working on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  Also interested in puzzles and computer science
+<p align="center">
+Welcome to my profile!</br>
+I hope it's a fun file;</br>
+    My type of lunch</br>
+    Is data to crunch,</br>
+'Cuz numbers are always in style.</br>
+</p>
 
-## Languages I'm learning
+## Intro
+I am a student at CodeUp learning Data Science in the Jemison cohort.  I am Looking forward to working on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  I like to explore problems in language and mathematics, and share what I learn with others.
+
+#### Languages I'm learning
 - Python
 - Java
 - SQL
 - HTML/CSC/PHP
 
-- 👋 Hi, I’m @stephenfitzsimon
-- 👀 I’m interested in ... Data science
-- 🌱 I’m currently learning ... data science
-- 💞️ I’m looking to collaborate on ... python projects
-- 📫 How to reach me ... please use email
-
-
+<p>
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/stephenfitzsimon/stephenfitzsimon?style=plastic"> 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/stephenfitzsimon/stephenfitzsimon">
+</p>
 
 <!---
 stephenfitzsimon/stephenfitzsimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
