@@ -15,6 +15,12 @@ I am a student at CodeUp learning Data Science in the Jemison cohort.  I am Look
 - SQL
 - HTML/CSC/PHP
 
+### Projects
+This is where my major projects will go
+
+### Links
+This is where my links to websites will go
+
 <!---
 stephenfitzsimon/stephenfitzsimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
