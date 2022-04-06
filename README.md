@@ -9,17 +9,17 @@ I hope it's a fun file;</br>
 ## Intro
 I am a student at CodeUp learning Data Science in the Jemison cohort.  I am Looking forward to working on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  I like to explore problems in language and mathematics, and share what I learn with others. In my free time I enjoy studying linguistics, writing and reading.
 
-"Our revels now are ended. These our actors,
-As I foretold you, were all spirits, and
-Are melted into air, into thin air;
-And, like the baseless fabric of this vision,
-The cloud-capp'd towers, the gorgeous palaces,
-The solemn temples, the great globe itself,
-Yea, all which it inherit, shall dissolve,
-And, like this insubstantial pageant faded,
-Leave not a rack behind. We are such stuff
-As dreams are made on; and our little life
-Is rounded with a sleep." 
+"Our revels now are ended. These our actors,<br>
+As I foretold you, were all spirits, and<br>
+Are melted into air, into thin air;<br>
+And, like the baseless fabric of this vision,<br>
+The cloud-capp'd towers, the gorgeous palaces,<br>
+The solemn temples, the great globe itself,<br>
+Yea, all which it inherit, shall dissolve,<br>
+And, like this insubstantial pageant faded,<br>
+Leave not a rack behind. We are such stuff<br>
+As dreams are made on; and our little life<br>
+Is rounded with a sleep." <br>
 -Shakespeare, The Tempest
 
 #### Languages I'm learning
