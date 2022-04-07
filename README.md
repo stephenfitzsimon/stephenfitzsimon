@@ -28,11 +28,7 @@ Is rounded with a sleep." <br>
 - SQL
 - HTML/CSC/PHP
 
-### Projects
-This is where my major projects will go
-
-### Links
-This is where my links to websites will go
+<img src="https://www.codewars.com/users/stephenf/badges/micro"></img>
 
 <!---
 stephenfitzsimon/stephenfitzsimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
