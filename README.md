@@ -26,7 +26,7 @@ Is rounded with a sleep." <br>
 - Python
 - Java
 - SQL
-- HTML/CSC/PHP
+- HTML/CSS/PHP
 
 <img src="https://www.codewars.com/users/stephenf/badges/micro"></img>
 
