@@ -20,6 +20,7 @@ Or every man be blind —" <br>
 -Emily Dickinson
 
 ## Projects I'm Proud Of:
+- Zillow Price Prediction: Analyzed a limited set of real estate data for southern California, and applied a basic linear regression model.
 - Telco Churn Classification project `telco_churn_classification`: Analyzed data to determine variables that lead to customer churn, and built a classification model in order to predict churn with 0.77 accuracy.
 - Weather CLI `weathercli_realpython`: Followed the RealPython tutorial to build a command line application to show current weather for a user specified city.  Learned about `argparse`, API calls, and INI files.
 
