@@ -20,8 +20,8 @@ Or every man be blind —" <br>
 -Emily Dickinson
 
 ## Projects I'm Proud Of:
-- <a href="https://github.com/stephenfitzsimon/zillow_regression_project">Zillow Price Prediction `zillow_regression_project`</a>: Analyzed a limited set of real estate data for southern California, and applied a basic linear regression model.
-- <a href= "https://github.com/stephenfitzsimon/telco_churn_classification">Telco Churn Classification project `telco_churn_classification`</a>: Analyzed data to determine variables that lead to customer churn, and built a classification model in order to predict churn with 0.77 accuracy.
+- <a href="https://github.com/stephenfitzsimon/zillow_regression_project">Zillow Price Prediction `zillow_regression_project`</a>: Analyzed a limited set of real estate data for southern California, and applied a basic linear regression model. Learned about linear regression models with `sklearn`, model metrics with `sklearn`, and visualization in `seaborn`.
+- <a href= "https://github.com/stephenfitzsimon/telco_churn_classification">Telco Churn Classification project `telco_churn_classification`</a>: Analyzed data to determine variables that lead to customer churn, and built a classification model in order to predict churn with 0.77 accuracy. Learned about classification modeling iwth `sklearn`, statistical analysis with `scipy`, and visualizing data with `matplotlib` and `seaborn`.
 - <a href="https://github.com/stephenfitzsimon/weathercli_realpython">Weather CLI `weathercli_realpython`</a>: Followed the RealPython tutorial to build a command line application to show current weather for a user specified city.  Learned about `argparse`, API calls, and INI files.
 
 #### Languages I'm learning
