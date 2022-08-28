@@ -7,17 +7,7 @@ I hope it's a fun file;</br>
 </p>
 
 ## Intro
-I am a student at CodeUp learning Data Science in the Jemison cohort.  I am Looking forward to working on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  I like to explore problems in language and mathematics, and share what I learn with others. In my free time I enjoy studying linguistics, writing and reading.
-
-"Tell all the truth but tell it slant —<br>
-Success in Circuit lies<br>
-Too bright for our infirm Delight<br>
-The Truth's superb surprise<br>
-As Lightning to the Children eased<br>
-With explanation kind<br>
-The Truth must dazzle gradually<br>
-Or every man be blind —" <br>
--Emily Dickinson
+I am a Data Scienctist and problem solver.  I am like to work on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  I like to explore problems in language and mathematics, and share what I learn with others. In my free time I enjoy studying linguistics, writing and reading.
 
 ## Projects I'm Proud Of:
 - <a href='https://github.com/stephenfitzsimon/possum-regression/blob/main/possum_models.ipynb'>Possum Regression and Classification</a> `possum_model.ipynb`: Predicting the sex and age of the Short-eared/Mountain-Brushtail possum of Australia. A classification model is 0.97 accurate and an age model predicts with an error of 0.5 year.
