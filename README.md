@@ -7,7 +7,7 @@ I hope it's a fun file;</br>
 </p>
 
 ## Intro
-I am a Data Scienctist and problem solver.  I am like to work on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  I like to explore problems in language and mathematics, and share what I learn with others. In my free time I enjoy studying linguistics, writing and reading.
+I am a Data Scienctist and problem solver.  I am like to work on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  I like to explore problems in language and mathematics, and share what I learn with others. In my free time I enjoy studying linguistics, writing and reading.  If you like my work please reach out to me!  Check out my linkedin profile for more information.
 
 ## Projects I'm Proud Of:
 - <a href='https://github.com/stephenfitzsimon/possum-regression/blob/main/possum_models.ipynb'>Possum Regression and Classification</a> `possum_model.ipynb`: Predicting the sex and age of the Short-eared/Mountain-Brushtail possum of Australia. A classification model is 0.97 accurate and an age model predicts with an error of 0.5 year.
