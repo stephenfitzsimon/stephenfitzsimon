@@ -6,8 +6,10 @@ I hope it's a fun file;</br>
 'Cuz numbers are always in style.</br>
 </p>
 
-## Intro
-I am a Data Scienctist and problem solver.  I am like to work on projects that explore the things I'm interested in: math, langauges, economics, and the environment.  I like to explore problems in language and mathematics, and share what I learn with others. In my free time I enjoy studying linguistics, writing and reading.  If you like my work please reach out to me!  Check out my linkedin profile for more information.
+## About Me
+I am an data scientist, coder, and problem solver. My math background allows me to think analytically about problems; my computer background allows me to implement effective solutions; and my language background allows me to communicate solutions to others. I'm always eager to learn from others, and help others learn!
+
+My skills are in programming, data analysis, and multiple languages (computer and human). I have experience with Python, Java, HTML, CSS, and C++.
 
 ## Projects I'm Proud Of:
 - <a href='https://github.com/stephenfitzsimon/possum-regression/blob/main/possum_models.ipynb'>Possum Regression and Classification`possum_model.ipynb`</a>: Predicting the sex and age of the Short-eared/Mountain-Brushtail possum of Australia. A classification model is 0.97 accurate and an age model predicts with an error of 0.5 year.
